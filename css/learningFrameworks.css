@@ -1,0 +1,19 @@
+.row {
+	width: 100%;
+	float: left;
+}
+
+.column-25{
+	width: 25%;
+	float: left;
+} 
+
+.column-50 {
+	width: 50%;
+	float: left;
+}
+
+.column-75 {
+	width: 75%;
+	float: left;
+}
