@@ -3,17 +3,17 @@
 	float: left;
 }
 
-.column-25{
+.col-3{
 	width: 25%;
 	float: left;
 } 
 
-.column-50 {
+.col-6{
 	width: 50%;
 	float: left;
 }
 
-.column-75 {
+.col-9 {
 	width: 75%;
 	float: left;
 }
